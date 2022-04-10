@@ -2,7 +2,6 @@
     // Enable us to use Headers
     ob_start();
 
-
     // Set sessions
     if(!isset($_SESSION)) {
         session_start();
