@@ -1,5 +1,4 @@
 <?php 
-
     // Enable us to use Headers
     ob_start();
 
