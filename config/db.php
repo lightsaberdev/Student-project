@@ -3,7 +3,6 @@
     ob_start();
 
 
-
     // Set sessions
     if(!isset($_SESSION)) {
         session_start();
