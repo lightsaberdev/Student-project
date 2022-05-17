@@ -20,6 +20,7 @@ if(isset($_POST['addFood'])) {
     }
 }
 
+
 // place order
 if (isset($_POST['placeOrder'])) {
     $customerName = $_POST['customerName'];
